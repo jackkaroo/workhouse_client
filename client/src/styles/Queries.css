@@ -1,0 +1,50 @@
+.header-show {
+    display: block;
+}
+
+.header-hide {
+    display: none;
+}
+
+.mb-30 {
+    margin-bottom: 30px;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
+
+.mr-30 {
+    margin-right: 30px;
+}
+
+.btn-primary {
+    height: 50px;
+    width: 100px;
+}
+
+.manager-queries {
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-bottom: 200px;
+}
+
+.seller-queries {
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-bottom: 200px;
+}
+
+.query-item {
+    margin-bottom: 50px;
+}
+
+input, select {
+    height: 35px;
+    padding-left: 10px;
+    min-width: 200px;
+}
+
+.btn-reload {
+    margin-right: 30px;
+}
